@@ -1,0 +1,67 @@
+[{
+        "name": "Mastering Forex",
+        "price": "0",
+        "detail": "Unveiling strategies for success",
+        "image": "./f3.png",
+        "link": "/residencies/blog/1"
+    },
+    {
+        "name": "Navigating The Forex Market",
+        "price": "0",
+        "detail": "A comprehensive guide",
+        "image": "./f1.png",
+        "link": "/residencies/blog/2"
+    },
+    {
+        "name": "Unlocking Profit Potential",
+        "price": "0",
+        "detail": "Your forex trading blueprint",
+        "image": "./hero1.png",
+        "link": "/residencies/blog/3"
+    },
+    {
+        "name": "Forex Fundamentals",
+        "price": "0",
+        "detail": "Building blocks for trading triumph",
+        "image": "./f4.jpg",
+        "link": "/residencies/blog/4"
+    },
+    {
+        "name": "Demystifying Forex",
+        "price": "0",
+        "detail": "Tips and tactics for traders",
+        "image": "./f5.jpg",
+        "link": "/residencies/blog/5"
+    },
+    {
+        "name": "Strategies For Forex Maneuvers",
+        "price": "0",
+        "detail": "Boosting your trading game",
+        "image": "./ts.jpg",
+        "link": "/residencies/blog/6"
+
+    },
+    {
+        "name": "Charting Your Course",
+        "price": "0",
+        "detail": "A practical guide to forex excellence",
+        "image": "./f6.jpg",
+        "link": "/residencies/blog/7"
+
+    },
+    {
+        "name": "Forex Mastery Unleashed",
+        "price": "0",
+        "detail": "Insider tips for trading triumph",
+        "image": "./f7.jpg",
+        "link": "/residencies/blog/8"
+    },
+    {
+        "name": "Forex Tactics",
+        "price": "0",
+        "detail": "Proven Tactics For Profitable Forex Trading",
+        "image": "./f8.jpg",
+        "link": "/residencies/blog/9"
+
+    }
+]

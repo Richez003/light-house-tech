@@ -1,0 +1,22 @@
+.b-container>h2 {
+    text-align: center;
+    margin: 1rem;
+    /* justify-content: center; */
+}
+
+.b-container>span {
+    justify-content: center;
+    margin: 2rem
+}
+
+
+/* .b-wrapper {
+    background: white;
+    overflow: hidden;
+    z-index: 1;
+} */
+
+
+/* .Blog-p span {
+    font-size: 4rem;
+} */
