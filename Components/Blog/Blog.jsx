@@ -5,6 +5,8 @@ import "./Blog.css"
 const Blog = () => {
   return (
       <div className="flexCenter b-wrapper">
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3326899591696450"
+     crossorigin="anonymous"></script>
         <div className="flexColCenter b-container">
             <h2>
             Mastering Forex: Unveiling Strategies for Success

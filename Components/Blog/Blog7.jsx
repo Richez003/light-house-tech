@@ -3,6 +3,8 @@ import React from 'react'
 const Blog7 = () => {
     return (
         <div className="flexCenter b-wrapper">
+                  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3326899591696450"
+     crossorigin="anonymous"></script>
           <div className="flexCenter B-header">
           </div>
           <div className="flexColCenter b-container">

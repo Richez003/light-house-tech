@@ -7,7 +7,7 @@
     border-radius: 10px;
 }
 
-.Landing>:nth-child(1) {
+.Landing>:nth-child(2) {
     background-color: var(--black);
     position: relative;
 }

@@ -45,7 +45,7 @@
         z-index: 2;
         border-radius: 10px;
         right: 4rem;
-        box-shadow: 0px 4px 4pxrgba(0, 0, 0.05);
+        box-shadow: 0px 4px 4px rgba(0, 0, 0.05);
         background: white;
         flex-direction: column;
         font-weight: 500;
