@@ -8,7 +8,7 @@ const Header = () => {
   const getMenuStyles = (menuOpen) => {
     if (document.documentElement.clientWidth <= 800)
     {
-return {right: !menuOpen && {visibility: "hidden"}}
+return {right: !menuOpen && "-100%"}
 
     }
   }

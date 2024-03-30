@@ -17,8 +17,8 @@ const GetStarted = () => {
               Get Started
             </div>
             <div className="social-icon">
-            <a href='mailto: richardfriday003@gmail.com'> <HiOutlineMail size={40}/></a>
-            <a href='tel: +2348148241977'> <MdCall size={40} /></a>
+            <a href={`mailto: richardfriday003@gmail.com`}> <HiOutlineMail size={40}/></a>
+            <a href={`tel: +2348148241977`}> <MdCall size={40} /></a>
             <a href={`https://www.facebook.com/michael.friday.5030927?mibextid=ZbWKwL`}> <BsFacebook size={40} /></a>
             </div>
            

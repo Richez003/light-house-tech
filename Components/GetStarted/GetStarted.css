@@ -42,3 +42,13 @@
     gap: 10rem;
     padding: 2rem;
 }
+
+@media(max-width: 640px) {
+    .social-icon {
+        padding: 5px;
+    }
+    .social-icon>a {
+        padding: 10px;
+        width: 2px;
+    }
+}
