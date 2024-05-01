@@ -12,6 +12,8 @@ import Blog6 from "../Components/Blog/Blog6";
 import Blog7 from "../Components/Blog/Blog7";
 import Blog8 from "../Components/Blog/Blog8";
 import Footer from "../Components/Footer/Footer";
+import TermsAndCondition from "../Components/pages/terms/termsAndCondition";
+import './App.css';
 
 function App() {
   return (
@@ -28,6 +30,7 @@ function App() {
         <Route path="residencies/blog/7" element={<Blog6 />} />
         <Route path="residencies/blog/8" element={<Blog7 />} />
         <Route path="residencies/blog/9" element={<Blog8 />} />
+        <Route path="terms_and_condition" element={<TermsAndCondition/>} />
       </Routes>
       <Footer/>
     </>
