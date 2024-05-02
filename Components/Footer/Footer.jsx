@@ -1,5 +1,7 @@
 import React from 'react'
 import "./Footer.css"
+import { Link } from 'react-router-dom'
+
 const Footer = () => {
   return (
 <section className="f-wrapper">
@@ -17,6 +19,7 @@ const Footer = () => {
         <span>ABOUT</span>
         <span>CONTACT</span>
         <span>BLOG</span>
+        <span><Link to='policy'> PRIVACY POLICY</Link></span>
         </div>
     </div>
   </div>

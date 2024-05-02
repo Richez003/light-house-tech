@@ -14,6 +14,7 @@ import Blog8 from "../Components/Blog/Blog8";
 import Footer from "../Components/Footer/Footer";
 import TermsAndCondition from "../Components/pages/terms/termsAndCondition";
 import './App.css';
+import Policy from "../Components/pages/policy/policy";
 
 function App() {
   return (
@@ -31,6 +32,7 @@ function App() {
         <Route path="residencies/blog/8" element={<Blog7 />} />
         <Route path="residencies/blog/9" element={<Blog8 />} />
         <Route path="terms_and_condition" element={<TermsAndCondition/>} />
+        <Route path="policy" element={<Policy/>} />
       </Routes>
       <Footer/>
     </>
